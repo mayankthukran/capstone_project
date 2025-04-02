@@ -1,7 +1,7 @@
-# Minimalist Portfolio Website
+# Capstone Project Website
 
 ## Description
-This is a minimalist portfolio website designed to showcase projects, skills, and experiences. The design emphasizes simplicity and responsiveness, ensuring a clean and modern user interface across different screen sizes.
+This is a capstone project that about minimalist portfolio website designed to showcase projects, skills, and experiences. The design emphasizes simplicity and responsiveness, ensuring a clean and modern user interface across different screen sizes.
 
 ## Features
 - Fully responsive layout for desktop, tablet, and mobile devices
@@ -16,11 +16,11 @@ This is a minimalist portfolio website designed to showcase projects, skills, an
 ## Installation & Usage
 1. Clone the repository or download the ZIP file.
    ```sh
-   git clone https://github.com/your-username/minimalist-portfolio.git
+   git clone https://github.com/mayankthukran/capstone_project.git
    ```
 2. Navigate to the project directory.
    ```sh
-   cd minimalist-portfolio
+   cd capstone_project
    ```
 3. Open `index.html` in a web browser to view the portfolio.
 4. Customize the `style.css` file to match your personal branding.
